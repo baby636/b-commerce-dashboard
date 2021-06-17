@@ -46,7 +46,7 @@
     "@toruslabs/torus-embed": "^1.10.10",
     "bootstrap": "4.6.0",
     "chart.js": "2.9.4",
-    "classnames": "2.2.6",
+    "classnames": "2.3.1",
     "ipfs-http-client": "^49.0.4",
     "moment": "2.29.1",
     "node-sass": "4.14.1",
