@@ -64,7 +64,7 @@
     "web3modal": "^1.9.3"
   },
   "devDependencies": {
-    "gulp": "4.0.2",
+    "gulp": "5.0.0",
     "gulp-append-prepend": "1.0.8"
   },
   "optionalDependencies": {
